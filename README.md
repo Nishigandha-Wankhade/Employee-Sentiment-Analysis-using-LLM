@@ -12,7 +12,7 @@ This project involves analyzing an unlabeled dataset (test.csv) of employee mess
 
 #### •	Top Negative Employees  
             Rank	        Employee	            Total Sentiment Score
-              1	    rhonda.denton@enron.com	                  26
+              1	    rhonda.denton@enron.com	                 26
               2	    don.baughman@enron.com               	29
               3	    kayne.coulter@enron.com             	32
 
