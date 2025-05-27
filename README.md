@@ -12,7 +12,7 @@ This project involves analyzing an unlabeled dataset (test.csv) of employee mess
 
 #### •	Top Negative Employees  
             Rank	        Employee	            Total Sentiment Score
-              1	    rhonda.denton@enron.com	            26
+              1	    rhonda.denton@enron.com	                        26
               2	    don.baughman@enron.com               	29
               3	    kayne.coulter@enron.com             	32
 
@@ -28,7 +28,7 @@ This project involves analyzing an unlabeled dataset (test.csv) of employee mess
             Rank	        Employee	            Total Sentiment Score
               1	    sally.beck@enron.com                	-1
               2	    bobette.riner@ipgdirect.com                  0
-              3	    john.ernold@enron.com             	 0
+              3	    john.ernold@enron.com             	             0
 
 ### Employees Flagged as Flight Risks
 Based on the overall analysis done, no employees met all three risk criteria-
