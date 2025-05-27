@@ -30,19 +30,19 @@ This project involves analyzing an unlabeled dataset (test.csv) of employee mess
               2	    bobette.riner@ipgdirect.com                  0
               3	    john.ernold@enron.com             	         0
 
-### Employees Flagged as Flight Risks
+### Employees Flagged as Flight Risks:
 Based on the overall analysis done, no employees met all three risk criteria-
   -	Score Slope < 0 (decline in sentiment over time)
   -	Negative-to-Positive Ratio > 1
   -	Engagement Slope < 0 (declining engagement)
 There appears to be no immediate flight risk within this group; however, employees showing negative sentiment scores or declining engagement trends should be closely monitored.
 
-### Key Insights
+### Key Insights:
 •	Around 80% of the initial assumptions made via Excel pivot table analysis were validated by advanced NLP and machine learning models.
 •	Feature engineering significantly improved model performance - linear regression achieved R² = 1.00 post-feature enhancements.
 •	Message counts and sentiment class counts (positive, negative, neutral) are strong indicators of employee sentiment and risk.
 
-### Recommendations
+### Recommendations:
 1.	Implement Ongoing Sentiment Monitoring: Automate sentiment tracking to proactively identify shifts in morale.
 2.	Early Intervention Strategy: Use the flight risk model to alert HR when sentiment declines sharply.
 3.	Employee Engagement Programs: Focus on employees showing early signs of disengagement (high neutral or low message count). Schedule monthly pulse checks or informal 1:1s with employees at the bottom of the sentiment list to uncover underlying issues.
