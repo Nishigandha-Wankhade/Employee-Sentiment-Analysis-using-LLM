@@ -4,7 +4,7 @@ This project involves analyzing an unlabeled dataset (test.csv) of employee mess
 ## RESULTS
 
 ## Overall Top Three Positive and Negative Employees:
-###•	Top Positive Employees 
+### •	Top Positive Employees 
             Rank	        Employee	            Total Sentiment Score
               1	    johnny.palmer@enron.com             	55
               2	    eric.bass@enron.com             	    52
