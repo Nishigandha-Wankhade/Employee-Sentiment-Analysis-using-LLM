@@ -38,14 +38,14 @@ Based on the overall analysis done, no employees met all three risk criteria-
 There appears to be no immediate flight risk within this group; however, employees showing negative sentiment scores or declining engagement trends should be closely monitored.
 
 ### Key Insights:
-•	Around 80% of the initial assumptions made via Excel pivot table analysis were validated by advanced NLP and machine learning models.
-•	Feature engineering significantly improved model performance - linear regression achieved R² = 1.00 post-feature enhancements.
-•	Message counts and sentiment class counts (positive, negative, neutral) are strong indicators of employee sentiment and risk.
+• Around 80% of the initial assumptions made via Excel pivot table analysis were validated by advanced NLP and machine learning models.
+• Feature engineering significantly improved model performance - linear regression achieved R² = 1.00 post-feature enhancements.
+• Message counts and sentiment class counts (positive, negative, neutral) are strong indicators of employee sentiment and risk.
 
 ### Recommendations:
-1.	Implement Ongoing Sentiment Monitoring: Automate sentiment tracking to proactively identify shifts in morale.
-2.	Early Intervention Strategy: Use the flight risk model to alert HR when sentiment declines sharply.
-3.	Employee Engagement Programs: Focus on employees showing early signs of disengagement (high neutral or low message count). Schedule monthly pulse checks or informal 1:1s with employees at the bottom of the sentiment list to uncover underlying issues.
-4.	Employee Award Programs: Continue to recognize and reward top positive contributors to reinforce a positive communication culture.
-5.	Validation of Models on Unseen Data: To ensure robustness, validate models with new datasets to avoid overfitting.
+1. Implement Ongoing Sentiment Monitoring: Automate sentiment tracking to proactively identify shifts in morale.
+2. Early Intervention Strategy: Use the flight risk model to alert HR when sentiment declines sharply.
+3. Employee Engagement Programs: Focus on employees showing early signs of disengagement (high neutral or low message count). Schedule monthly pulse checks or informal 1:1s with employees at the bottom of the sentiment list to uncover underlying issues.
+4. Employee Award Programs: Continue to recognize and reward top positive contributors to reinforce a positive communication culture.
+5. Validation of Models on Unseen Data: To ensure robustness, validate models with new datasets to avoid overfitting.
 
