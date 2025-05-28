@@ -38,9 +38,9 @@ Based on the overall analysis done, no employees met all three risk criteria-
 There appears to be no immediate flight risk within this group; however, employees showing negative sentiment scores or declining engagement trends should be closely monitored.
 
 ### Key Insights:
-• Around 80% of the initial assumptions made via Excel pivot table analysis were validated by advanced NLP and machine learning models.
-• Feature engineering significantly improved model performance - linear regression achieved R² = 1.00 post-feature enhancements.
-• Message counts and sentiment class counts (positive, negative, neutral) are strong indicators of employee sentiment and risk.
+1. Around 80% of the initial assumptions made via Excel pivot table analysis were validated by advanced NLP and machine learning models.
+2. Feature engineering significantly improved model performance - linear regression achieved R² = 1.00 post-feature enhancements.
+3. Message counts and sentiment class counts (positive, negative, neutral) are strong indicators of employee sentiment and risk.
 
 ### Recommendations:
 1. Implement Ongoing Sentiment Monitoring: Automate sentiment tracking to proactively identify shifts in morale.
